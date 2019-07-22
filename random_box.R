@@ -3,7 +3,7 @@
 
 # amount_box : number of boxes in this simulation
 # times: how many times we run the simulation
-amount_box <- 7
+amount_box <- 8
 times <- 10000
 
 # initiate the boxes and number of red balls in each box
